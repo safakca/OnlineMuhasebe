@@ -6,5 +6,4 @@ namespace OnlineMuhasebeServer.Presentation.Abstraction;
 [Route("api/[controller]")]
 public abstract class ApiController : ControllerBase
 {
-
 }
